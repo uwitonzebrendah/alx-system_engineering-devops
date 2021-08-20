@@ -5,3 +5,5 @@ cd -  "changes the working directory to the user’s home directory"
 ls -l "displays the current directory content in a long format"
 ls -a -l  "Display current directory contents, including hidden files"
 ls -lna "displays the content of the current directory with the long formant,users id and hidden files"
+mkdir /tmp/my_first_directory "create the folder in the tmp"
+
