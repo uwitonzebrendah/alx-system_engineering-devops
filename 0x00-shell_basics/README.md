@@ -12,4 +12,4 @@ rm -r /tmp/my_first_directory "Delete the directory my_first_directory that is i
 cd - "a script that changes the working directory to the previous one"
 file /tmp/iamafile "it prints the file named iamafile"
 ln -s /bin/ls __ls__ "used to create a symbolic link in the current directory"
-
+cp -nu *.html .. "script that copies all the HTML files from the current working directory to the parent of the working directory"
