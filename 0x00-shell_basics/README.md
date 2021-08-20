@@ -10,3 +10,4 @@ mv /tmp/betty /tmp/my_first_directory "moving file betty in tmp to my_first_dire
 rm /tmp/holberton/betty "deleting the file of betty in tmp"
 rm -r /tmp/my_first_directory "Delete the directory my_first_directory that is in the /tmp directory"
 cd - "a script that changes the working directory to the previous one"
+file /tmp/iamafile "it prints the file named iamafile"
