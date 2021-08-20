@@ -8,3 +8,4 @@ ls -lna "displays the content of the current directory with the long formant,use
 mkdir /tmp/my_first_directory "create the folder in the tmp"
 mv /tmp/betty /tmp/my_first_directory "moving file betty in tmp to my_first_directory in tmp"
 rm /tmp/holberton/betty "deleting the file of betty in tmp"
+rm -r /tmp/my_first_directory "Delete the directory my_first_directory that is in the /tmp directory"
